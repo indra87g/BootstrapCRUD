@@ -3,6 +3,9 @@
 *See README.md in english, [Here](README_EN.md) !*
 
 ## Tentang
+
+![](https://i.ibb.co/RbcGGss/Screenshot-3.png)
+
 **CRUD Bootstrap** adalah aplikasi PHP CRUD sederhana yang menggunakan Bootstrap 5 untuk mempercantik tampilan aplikasinya. Terdapat berbagai fungsi dalam aplikasi ini, yaitu :
 
 - Tambah, Hapus, Edit dan Reset Database
