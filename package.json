@@ -1,0 +1,9 @@
+{
+  "name": "crudbootstrap",
+  "version": "1.0.0",
+  "description": "A simple CRUD web applications with bootstrap 5 style",
+  "repository": "https://github.com",
+  "author": "indra87g (https://indra87g.github.io)",
+  "license": "GPL-3.0",
+  "private": false
+  }
